@@ -141,6 +141,10 @@ body {
     padding-top: 4%;
 }
 
+.überschrift_pdf-dateien h1{
+    color: black;
+}
+
 .pdf_container{
     display: flex;
     justify-content: space-between;
@@ -170,15 +174,6 @@ body {
 
 /* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
 
-.form-group{
-    width: 80%;
-}
-
 .p-4{
     background-color: black;
 }
-
-h1{
-    color:white;
-}
-
